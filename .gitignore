@@ -23,3 +23,20 @@ frontend/dist/
 # IDE
 .vscode/
 .idea/
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# Python
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
